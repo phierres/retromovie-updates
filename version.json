@@ -1,7 +1,7 @@
 {
   "platform": "android",
-  "versionCode": 6,
-  "versionName": "1.0.5",
+  "versionCode": 8,
+  "versionName": "1.0.7",
   "apkUrl": "https://github.com/phierres/retromovie-updates/releases/latest/download/retromovie-latest.apk",
   "downloadUrl": "https://github.com/phierres/retromovie-updates/releases/latest/download/retromovie-latest.apk",
   "fileName": "retromovie-latest.apk",
