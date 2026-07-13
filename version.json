@@ -1,10 +1,10 @@
 {
   "platform": "android",
-  "versionCode": 31,
-  "versionName": "2.0.1",
+  "versionCode": 32,
+  "versionName": "2.0.2",
   "apkUrl": "https://github.com/phierres/retromovie-updates/releases/latest/download/retromovie-latest.apk",
   "downloadUrl": "https://github.com/phierres/retromovie-updates/releases/latest/download/retromovie-latest.apk",
   "fileName": "retromovie-latest.apk",
   "mandatory": false,
-  "message": "Uma nova versao do RetroMovie esta pronta. Toque em Atualizar para abrir o download."
+  "message": "Nova interface compacta, transicoes corrigidas e melhorias no controle do cenario."
 }
